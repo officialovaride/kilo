@@ -1,0 +1,6 @@
+#ignore the compiled text editor executable
+kilo
+
+#Ignore temporary editor crash files or object builds
+*.op
+*.swp
